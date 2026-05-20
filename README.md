@@ -1,4 +1,3 @@
-```md
 # Bank Marketing Campaign Analysis
 
 ## Project Overview
